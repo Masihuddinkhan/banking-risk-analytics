@@ -41,6 +41,16 @@ To analyze customer data and identify high-risk segments that could lead to pote
 ## 🎯 Outcome
 
 This project helped simulate real-world credit risk analytics and demonstrated how data can support safer lending practices.
+![Home](https://github.com/user-attachments/assets/e581aca1-8555-4261-96cd-b3aaa12189dc)
+![Analsyt](https://github.com/user-attachments/assets/80963f75-043e-4704-8996-acd44cc147a4)
+![deposite](https://github.com/user-attachments/assets/713d91ef-aecc-420a-9bee-34f7e0e00480)
+![summary](https://github.com/user-attachments/assets/0cd93be0-4089-4fc0-834d-c68abc69fa2f)
+
+
+
+
+
+
 
 
 
