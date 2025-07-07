@@ -2,15 +2,15 @@
 End-to-end credit risk analysis project in the banking domain using Python, MySQL, and Power BI to identify high-risk customers and minimize loan default risk.
 
 
-# 🏦 Banking Risk Analysis - End to End Data Analytics Project
+#  Banking Risk Analysis - End to End Data Analytics Project
 
 This project focuses on understanding and minimizing lending risk in the banking domain using an end-to-end data analytics pipeline built with Python, MySQL, and Power BI.
 
-## 📌 Objective
+##  Objective
 
 To analyze customer data and identify high-risk segments that could lead to potential loan defaults, thereby helping financial institutions take smarter lending decisions.
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - MySQL (Database creation, complex querying)
@@ -19,26 +19,26 @@ To analyze customer data and identify high-risk segments that could lead to pote
 - VS Code / DBeaver / MySQL Workbench (optional)
 
 
-## 📊 Key Features
+##  Key Features
 
 - Customer segmentation based on risk
 - Analysis of demographic and financial indicators
 - Loan approval vs default comparison
 - Dashboard for executive-level insights
 
-## 🔍 Insights Derived
+##  Insights Derived
 
 - Income, job type, and credit history are strong predictors of default
 - Debt-to-income ratio significantly affects repayment capacity
 - Regional variations can guide better localized policy decisions
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Load the CSV data into MySQL using provided schema
 2. Run the Jupyter notebook to clean, analyze, and export data
 3. Connect the exported data to Power BI to visualize insights
 
-## 🎯 Outcome
+##  Outcome
 
 This project helped simulate real-world credit risk analytics and demonstrated how data can support safer lending practices.
 ![Home](https://github.com/user-attachments/assets/e581aca1-8555-4261-96cd-b3aaa12189dc)
